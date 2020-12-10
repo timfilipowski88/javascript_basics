@@ -1,1 +1,1 @@
-# javascript_basics
+This is the work for the JavaScript Basics assignment by Tim Filipowski.
