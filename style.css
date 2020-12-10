@@ -6,12 +6,14 @@
 }
 
 body {
-    align-items: center;
+    align-content: center;
+    padding: 0 auto;
 }
 .wrapper {
     width: 970px;
     padding: 10px;
     background-color: #1b345d;
+    margin: 0px auto;
 }
 
 header, nav, main, footer {
